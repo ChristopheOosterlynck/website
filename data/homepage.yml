@@ -36,12 +36,24 @@ portfolio:
         - vercel
         - react
 experience:
-  enable: true
+  enable: false
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+    - logo: https://www.saleswise.eu/wp-content/uploads/2018/03/logo.png
+      title: Team lead mobile
+      company: CCV Lab
+      duration: 2020 - 2021
+    - logo: https://flowpilots.com/wp-content/themes/flow-pilots/images/flow_logo_final_text.svg
+      title: Tech lead mobile
+      company: Flow Pilots
+      duration: 2014 - 2020
+    - logo: https://www.clinisysgroup.com/app/uploads/2021/02/CliniSysMIPSLogoRGB.png
+      title: Software Engineer
+      company: MIPS
+      duration: 2013 - 2014
+    - logo: https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/2/2010/11/Dzine-300x208.png
+      title: Software Engineer
+      company: dZine
+      duration: 2009 - 2013
 hackathons:
   enable: false
   item:
@@ -62,12 +74,12 @@ awards:
       event: GNOME Community Engagement Challenge
       image: https://res.cloudinary.com/samrobbins/image/upload/v1595701167/CEChallenge-P1Winner2_iyjvyu.png
 education:
-  enable: true
+  enable: false
   item:
     - title: Master of Science in Electrical Engineering
       year: 2003 - 2009
       academy: KU Leuven
       image: https://seeklogo.com/images/K/K_U__Leuven-logo-3A8BA24BBD-seeklogo.com.png
-      
+
 
 
