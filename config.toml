@@ -18,15 +18,15 @@ theme="hugo-developer-portfolio"
   [[menu.main]]
   name = "About"
   URL = "about"
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+#  [[menu.main]]
+#  name = "Blog"
+#  URL = "blog"
   [[menu.main]]
   name = "Portfolio"
   URL = "portfolio"
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+#  [[menu.main]]
+#  name = "Contact"
+#  URL = "contact"
 
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
@@ -42,3 +42,4 @@ author = "Sam Robbins"
   [params.footer]
   email = "christophe.oosterlynck@gmail.com"
   address = "Kluisbergen, BE"
+  googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
