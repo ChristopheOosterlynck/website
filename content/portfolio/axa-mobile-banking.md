@@ -1,21 +1,22 @@
 +++
 categories = ["Xamarin"]
 coders = []
-date = 2021-05-15T12:00:00Z
-description = "Cross platform banking app"
+date = 2021-05-13T12:00:00Z
+description = "Personal banking app"
 github = []
-playstore = "https://play.google.com/store/apps/details?id=be.axa.mobilebanking&hl=nl&gl=US"
-image = "https://play-lh.googleusercontent.com/JKCHJWw8_Di3lXtEHGrrfxUvp4Vs2HdaaNJObKnFcqEz80qBjDyUgLAlcC8REMErAIk=s360-rw"
+site = "https://www.axabank.be/nl/online-bankieren/mobile-banking"
+playstore = "https://play.google.com/store/apps/details?id=be.axa.mobilebanking"
+image = "/axa-logo.webp"
 title = "AXA Mobile Banking Service"
 type = "post"
 [[tech]]
-logo = "https://seeklogo.com/images/X/xamarin-logo-217DB116BC-seeklogo.com.png"
+logo = "/xamarin-logo.png"
 name = "Xamarin"
 url = "https://dotnet.microsoft.com/apps/xamarin"
 [[tech]]
-logo = "https://www.mvvmcross.com/assets/img/logo/MvvmCross-logo.png"
+logo = "/mvvmcross-logo.png"
 name = "MvvmCross"
-url = "https://https://www.mvvmcross.com/"
+url = "https://www.mvvmcross.com/"
 
 +++
 

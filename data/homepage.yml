@@ -18,11 +18,20 @@ skill:
   enable: true
   item:
     - title: Xamarin
-      logo: https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png
+      logo: /xamarin-logo.svg
       description: Details coming soon, contact me if you want to know more
+    - title: MvvmCross
+      description: Details coming soon, contact me if you want to know more
+      logo: /mvvmcross-logo.png
     - title: Android
-      logo: https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png
+      logo: /android-logo.svg
       description: Details coming soon, contact me if you want to know more
+    - title: Kotlin
+      description: Details coming soon, contact me if you want to know more
+      logo: /kotlin-logo.svg
+    - title: ReactiveX
+      description: Details coming soon, contact me if you want to know more
+      logo: /reactivex-logo.svg
 portfolio:
   enable: false
   item:
