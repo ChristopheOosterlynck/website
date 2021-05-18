@@ -21,6 +21,11 @@ url = "https://www.mvvmcross.com/"
 logo = "/android-subtitle-logo.png"
 name = "Android"
 url = "https://www.android.com/"
+[[tech]]
+logo = "/apple-logo.png"
+name = "iOS"
+url = "https://www.apple.com/ios/"
+
 
 
 +++

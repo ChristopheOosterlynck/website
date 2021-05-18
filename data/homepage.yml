@@ -10,7 +10,7 @@ social:
   twitter: "tiftof"
 about:
   enable: true
-  content: Experencied mobile app developer
+  content: Freelance mobile app developer
   button:
     btnText: Find out more
     URL: "/about"
@@ -29,9 +29,9 @@ skill:
     - title: Kotlin
       description: Details coming soon, contact me if you want to know more
       logo: /kotlin-logo.svg
-    - title: ReactiveX
+    - title: iOS
       description: Details coming soon, contact me if you want to know more
-      logo: /reactivex-logo.svg
+      logo: /apple-logo.png
 portfolio:
   enable: false
   item:

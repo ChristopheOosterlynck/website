@@ -12,6 +12,4 @@ As a software engineer I engage myself to deliver quality on time and I guide my
 
 I also participate in research and planning for the future of the project. I'm keen on investigating new problem domains and making well informed decisions.
 
-Aside from development, I'm also interested in the development process. I've played an essential part in introducing build automation, source control, code review introduction etc to improve the workflow and the quality of the projects I've worked on. Aside from setting this up I also train my fellow team members in using newly introduced tools.
-
-Specialties: Software architecture, Software development, Qt, C++, Linux, Android, Xamarin
+Aside from development, I'm also interested in the development process. I've played an essential part in introducing build automation, source control, code review etc. to improve the workflow and the quality of the projects I've worked on. Aside from setting this up I also train my fellow team members in using newly introduced tools.
