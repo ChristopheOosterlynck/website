@@ -2,6 +2,7 @@ baseURL = "https://oosterlynck.dev/"
 languageCode = "en-us"
 title = "Christophe Oosterlynck"
 theme="hugo-developer-portfolio"
+googleAnalytics="G-GV65LR2E6H"
 
 [params.plugins]
   # CSS Plugins
