@@ -26,9 +26,6 @@ url = "https://www.android.com/"
 
 At CCV Lab I was the mobile lead and one of the projects I worked on was SalesPoint.
 
-![Home screen](/axa2.webp "Home screen")
-![Investments](/axa4.webp "Investments")
-
 ## Functionality
 
 SalesPoint is a dynamic app which can be a "simple" payment initiation app or a full blown electronic cash register. It can run on Android and iOS devices and integrates with specific hardware (printers, terminals, etc.).
